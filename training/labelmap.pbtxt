@@ -1,0 +1,24 @@
+item {
+  id: 1
+  name: 'motorcycle'
+}
+item {
+  id: 2
+  name: 'pickup'
+}
+item {
+  id: 3
+  name: 'sedan'
+}
+item {
+  id: 4
+  name: 'van'
+}
+item {
+  id: 5
+  name: 'truck'
+}
+item {
+  id: 6
+  name: 'bus'
+}
