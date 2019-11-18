@@ -1,0 +1,26 @@
+<annotation>
+	<folder>01 Motorcycle</folder>
+	<filename>IMG_150.jpg</filename>
+	<path>D:\KICE\010 Project KICE\025 Smart Parking\Pictures\01 Motorcycle\IMG_150.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>930</width>
+		<height>620</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>motorcycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>99</ymin>
+			<xmax>887</xmax>
+			<ymax>577</ymax>
+		</bndbox>
+	</object>
+</annotation>

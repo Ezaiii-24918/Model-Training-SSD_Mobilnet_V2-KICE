@@ -1,0 +1,26 @@
+<annotation>
+	<folder>03-Sedan</folder>
+	<filename>IMG_2085.jpg</filename>
+	<path>D:\KICE\010 Project KICE\025 Smart Parking\Pictures\03-Sedan\IMG_2085.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>912</width>
+		<height>611</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sedan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>58</xmin>
+			<ymin>148</ymin>
+			<xmax>757</xmax>
+			<ymax>574</ymax>
+		</bndbox>
+	</object>
+</annotation>

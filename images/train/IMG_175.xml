@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images-trian</folder>
+	<filename>IMG_175.jpg</filename>
+	<path>D:/KICE/010 Project KICE/025 Smart Parking/images-trian/IMG_175.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>664</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>motorcycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>109</xmin>
+			<ymin>88</ymin>
+			<xmax>865</xmax>
+			<ymax>644</ymax>
+		</bndbox>
+	</object>
+</annotation>

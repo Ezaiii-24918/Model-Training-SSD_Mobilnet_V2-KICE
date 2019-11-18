@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images-trian</folder>
+	<filename>IMG_1317.jpg</filename>
+	<path>D:/KICE/010 Project KICE/025 Smart Parking/images-trian/IMG_1317.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2800</width>
+		<height>1620</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pickup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>181</xmin>
+			<ymin>150</ymin>
+			<xmax>2575</xmax>
+			<ymax>1555</ymax>
+		</bndbox>
+	</object>
+</annotation>

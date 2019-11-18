@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Sedan</folder>
+	<filename>CAM_3316.jpg</filename>
+	<path>D:\KICE\010 Project KICE\025 Smart Parking\snapshot\Sedan\CAM_3316.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>576</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sedan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>92</xmin>
+			<ymin>67</ymin>
+			<xmax>673</xmax>
+			<ymax>338</ymax>
+		</bndbox>
+	</object>
+</annotation>

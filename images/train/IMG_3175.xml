@@ -1,0 +1,26 @@
+<annotation>
+	<folder>04 Van</folder>
+	<filename>IMG_3175.jpg</filename>
+	<path>D:\KICE\010 Project KICE\025 Smart Parking\Pictures\04 Van\IMG_3175.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1067</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>van</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>277</xmin>
+			<ymin>270</ymin>
+			<xmax>1256</xmax>
+			<ymax>765</ymax>
+		</bndbox>
+	</object>
+</annotation>

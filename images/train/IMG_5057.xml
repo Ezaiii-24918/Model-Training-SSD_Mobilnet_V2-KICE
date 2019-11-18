@@ -1,0 +1,26 @@
+<annotation>
+	<folder>06-Bus</folder>
+	<filename>IMG_5057.jpg</filename>
+	<path>D:\KICE\010 Project KICE\025 Smart Parking\Pictures\06-Bus\IMG_5057.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>115</xmin>
+			<ymin>52</ymin>
+			<xmax>721</xmax>
+			<ymax>482</ymax>
+		</bndbox>
+	</object>
+</annotation>

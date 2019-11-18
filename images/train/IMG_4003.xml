@@ -1,0 +1,26 @@
+<annotation>
+	<folder>05 Truck</folder>
+	<filename>IMG_4003.png</filename>
+	<path>D:\KICE\010 Project KICE\025 Smart Parking\Pictures\05 Truck\IMG_4003.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5000</width>
+		<height>2626</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>607</xmin>
+			<ymin>568</ymin>
+			<xmax>4852</xmax>
+			<ymax>1858</ymax>
+		</bndbox>
+	</object>
+</annotation>

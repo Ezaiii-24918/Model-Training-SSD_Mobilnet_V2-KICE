@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Motorcycle</folder>
+	<filename>CAM_0099.jpg</filename>
+	<path>D:\KICE\010 Project KICE\025 Smart Parking\snapshot\Motorcycle\CAM_0099.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>576</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>motorcycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>324</xmin>
+			<ymin>145</ymin>
+			<xmax>540</xmax>
+			<ymax>314</ymax>
+		</bndbox>
+	</object>
+</annotation>

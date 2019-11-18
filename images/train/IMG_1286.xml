@@ -1,0 +1,26 @@
+<annotation>
+	<folder>02 Pickup</folder>
+	<filename>IMG_1286.jpg</filename>
+	<path>D:\KICE\010 Project KICE\025 Smart Parking\Pictures\02 Pickup\IMG_1286.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pickup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>130</ymin>
+			<xmax>997</xmax>
+			<ymax>659</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Van</folder>
+	<filename>CAM_4006.jpg</filename>
+	<path>D:\KICE\010 Project KICE\025 Smart Parking\snapshot\Van\CAM_4006.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>576</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>van</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>40</xmin>
+			<ymin>7</ymin>
+			<xmax>706</xmax>
+			<ymax>340</ymax>
+		</bndbox>
+	</object>
+</annotation>
